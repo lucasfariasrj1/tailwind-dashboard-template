@@ -53,7 +53,9 @@ Use terminal and navigate to the project (tailadmin) root.
 - Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template
+git clone https://github.com/lucasfariasrj1/tailwind-dashboard-template.git
+
+
 ```
 - Then run : <code>npm install</code> to install dependencies
 
